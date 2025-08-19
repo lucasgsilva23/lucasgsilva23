@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, me chamo Lucas!
 
-<!--
-**lucasgsilva23/lucasgsilva23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Estudante de **Análise e Desenvolvimento de Sistemas**
+ Apaixonado por programação, tecnologia e resolução de problemas  
+ Buscando evoluir em **Front-End, Back-End e Banco de Dados**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e Ferramentas
+
+- **Linguagens:** HTML, CSS, JavaScript, Python, Java  
+- **Banco de Dados:** MySQL, SQLite  
+- **Versionamento:** Git & GitHub  
+- **Outros:** VS Code, Postman
+
+
